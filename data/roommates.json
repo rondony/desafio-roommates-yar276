@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mario Rodríguez",
+    "debe": 70000,
+    "recibe": 11250
+  },
+  {
+    "id": 2,
+    "nombre": "Marta Godoy",
+    "debe": 66250,
+    "recibe": 22500
+  },
+  {
+    "id": "28a4c6",
+    "nombre": "Yonny Rondón",
+    "debe": 23750,
+    "recibe": 150000
+  },
+  {
+    "id": "923480",
+    "nombre": "Pamela Barela",
+    "debe": 61250,
+    "recibe": 37500
+  }
+]

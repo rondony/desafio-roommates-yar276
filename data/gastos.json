@@ -1,0 +1,26 @@
+[
+  {
+    "id": "30957c",
+    "roommate": "Mario Rodríguez",
+    "descripcion": "Articulos de limpieza",
+    "monto": 15000
+  },
+  {
+    "id": "2377f9",
+    "roommate": "Pamela Barela",
+    "descripcion": "Servicios Básicos",
+    "monto": 50000
+  },
+  {
+    "id": "aa11e5",
+    "roommate": "Marta Godoy",
+    "descripcion": "Internet",
+    "monto": 30000
+  },
+  {
+    "id": "31ce27",
+    "roommate": "Yonny Rondón",
+    "descripcion": "Mercado",
+    "monto": 200000
+  }
+]
